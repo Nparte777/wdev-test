@@ -29,9 +29,9 @@
 
 ### ○ portfolio_website_demo :
 
-##### Netlify Website : https://warpmachine.netlify.app/
+Netlify Website : https://warpmachine.netlify.app/
 
-##### Host Repository : https://github.com/Nparte777/portfolio_website_demo
+Host Repository : https://github.com/Nparte777/portfolio_website_demo
 
         • Fully Functioning and Working Concept PortFolio Website Design
         • Hosted using Netlify
